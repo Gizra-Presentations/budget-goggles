@@ -833,7 +833,7 @@ html:-moz-full-screen-ancestor {
 		background-repeat: no-repeat;
 		background-size: cover;
 
-		transition: all 800ms cubic-bezier(0.260, 0.860, 0.440, 0.985);
+		// transition: all 800ms cubic-bezier(0.260, 0.860, 0.440, 0.985);
 	}
 
 	.reveal .slide-background.stack {
@@ -1375,5 +1375,3 @@ html:-moz-full-screen-ancestor {
 .zoomed .reveal .roll span:after {
 	visibility: hidden;
 }
-
-
